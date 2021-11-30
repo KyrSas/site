@@ -1,0 +1,39 @@
+.iPos
+{
+    margin: 10px 12px;
+    pointer-events: none;
+    width: 30px;
+    height: 20px;
+    text-align: center;
+    border: 3px solid black;
+}
+
+.panel
+{ 
+width: 30px;
+height: 20px;
+text-align: center;
+margin: 10px 12px;
+}
+
+.but1 
+{
+    padding: 4px;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(139, 127, 127);
+}
+
+.calc
+{
+    border: 4px solid black;
+    border-radius: 25px;
+    width: 100px;
+    height: 200px;
+}
+
+.hud
+{
+    padding-left: 18px;
+    padding-top: 43px;
+}
