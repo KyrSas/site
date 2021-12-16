@@ -43,4 +43,39 @@ margin: 10px 12px;
 {
     padding-left: 18px;
     padding-top: 43px;
+    display: block;
+}
+.switch-btn
+{
+    display: inline-block;
+    width: 25px; /* ширина переключателя */
+    height: 15px; /* высота переключателя */
+    border-radius: 12px; /* радиус скругления */
+    background: #bfbfbf; /* цвет фона */
+    z-index: 0;
+    margin: 0;
+    padding: 0;
+    border: none;
+    cursor: pointer;
+    position: relative;
+    transition-duration: 300ms; /* анимация */
+    padding-left: 15px;
+}
+#three
+{
+    margin-left: 16px;
+    margin-top: 3px;
+
+}
+
+.checkbox
+{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    margin: 0px;
+    bottom: 50px;
+    top: 25px;
+    left: 46px;
+    text-align: center;
 }
